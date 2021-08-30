@@ -1,5 +1,5 @@
 # Tic Tac Toe game on terminal
-Small project made from scratch within 2 or so hours to show off my coding skills to brother :)
+Small project made from scratch within 2 or so hours :)
 Has a multi-player component to it only currently.
 Uses basic concepts about classes, objects, and data structures like arrays, arraylists, to implement a 2-D String Array of numbers.
 # To play:
